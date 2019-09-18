@@ -1,0 +1,11 @@
+[package]
+name = "rustpistonboilerplate"
+version = "0.1.0"
+authors = ["Lightnet <>"]
+edition = "2018"
+
+[[bin]]
+name = "rustpistonboilerplate"
+
+[dependencies]
+piston_window = "0.98.0"
